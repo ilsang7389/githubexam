@@ -1,8 +1,3 @@
 #master area
 master01
-hahahaha
-
-#subject area
-subject01
-
-
+welecom my home
